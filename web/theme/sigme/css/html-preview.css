@@ -22,3 +22,10 @@
 /* This file is included after the core Layout Preview CSS, replace 
  * this with a theme to override Layout Preview CSS.
  */
+
+/* Style the Splash Screen */
+div.preview-splash {
+    height: 100%;
+    background:#000000 url('../img/xibologo.png') no-repeat center center;
+    background-size: 45%;
+}
